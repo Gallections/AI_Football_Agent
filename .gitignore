@@ -1,0 +1,8 @@
+# Ignore model files
+*.pt
+
+# Ignore Python virtual environment
+myenv/
+
+# Ignore video files
+*.avi
